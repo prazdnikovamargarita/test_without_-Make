@@ -1,10 +1,12 @@
 # test_without_-Make
 За допомогою С++ та СMake реалізувати детектори кутів по алгоритмам FAST та KLT. Я використовувала OpenCV. Зезултати виділення картинок можна побачити у папці. 
 
-Маргарита, [12/15/2023 12:31 PM]
-За допомогою С++ та СMake реалізувати детектори кутів по алгоритмам FAST та KLT. Я використовувала OpenCV. Резултати виділення картинок можна побачити у папці. 
 Total Keypoints in Fast Detector "signal-2023-12-14-212155_002.jpeg": 9834
+![new_signal-2023-12-14-212155_002](https://github.com/prazdnikovamargarita/test_with_cMake/assets/59223407/441fa798-8d18-4447-bbe3-a58b6db292b4)
+
 Total Keypoints in Fast Detector "signal-2023-12-14-212155_003.jpeg": 1031
+![new_signal-2023-12-14-212155_003](https://github.com/prazdnikovamargarita/test_with_cMake/assets/59223407/32428ba7-f381-4fd9-a35a-bf5b9fcf2f00)
+
 
 "4.mp4"
 Frame: 2, Found Points: 80
