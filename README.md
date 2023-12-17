@@ -7,7 +7,10 @@ Total Keypoints in Fast Detector "signal-2023-12-14-212155_002.jpeg": 9834
 Total Keypoints in Fast Detector "signal-2023-12-14-212155_003.jpeg": 1031
 ![new_signal-2023-12-14-212155_003](https://github.com/prazdnikovamargarita/test_with_cMake/assets/59223407/32428ba7-f381-4fd9-a35a-bf5b9fcf2f00)
 
+ І мій алгоритм, котрий без дерева прийняття рішень. І на якомусь етапі я схибила. Дуже шкода.
+![circle_image](https://github.com/prazdnikovamargarita/test_without_-Make/assets/59223407/986794c4-6e58-41d1-80dd-88f20dee6cc0)
 
+ 
 "4.mp4"
 Frame: 2, Found Points: 80
 Frame: 3, Found Points: 80
